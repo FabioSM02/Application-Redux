@@ -4,7 +4,7 @@ Goals
 
 - Make an application with Redux for learn the basics concepts about this technologie.
 
-<img src="https://github.com/FabioSM02/Application-Redux/public/Screen.PNG" alt="Application-Redux">
+<img src="https://github.com/FabioSM02/Application-Redux/blob/main/public/Screen.PNG" alt="Application-Redux">
 
 ### Technologies used
 
