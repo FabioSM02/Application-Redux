@@ -4,6 +4,8 @@ Goals
 
 - Make an application with Redux for learn the basics concepts about this technologie.
 
+- Make a TodoList
+
 <img src="https://github.com/FabioSM02/Application-Redux/blob/main/public/Screen.PNG" alt="Application-Redux">
 
 ### Technologies used
